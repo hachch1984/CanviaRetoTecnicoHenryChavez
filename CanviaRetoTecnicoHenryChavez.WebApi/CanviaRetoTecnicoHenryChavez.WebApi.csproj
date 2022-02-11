@@ -1,0 +1,20 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="AutoMapper" Version="11.0.1" />
+    <PackageReference Include="AutoMapper.Extensions.Microsoft.DependencyInjection" Version="11.0.0" />
+    <PackageReference Include="Swashbuckle.AspNetCore" Version="5.6.3" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CanviaRetoTecnicoHenryChavez.Command\CanviaRetoTecnicoHenryChavez.Command.csproj" />
+    <ProjectReference Include="..\CanviaRetoTecnicoHenryChavez.DbContext\CanviaRetoTecnicoHenryChavez.DbContext.csproj" />
+    <ProjectReference Include="..\CanviaRetoTecnicoHenryChavez.Model\CanviaRetoTecnicoHenryChavez.Model.csproj" />
+    <ProjectReference Include="..\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.csproj" />
+  </ItemGroup>
+
+</Project>

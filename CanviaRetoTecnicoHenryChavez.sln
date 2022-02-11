@@ -1,0 +1,54 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.32126.317
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanviaRetoTecnicoHenryChavez.Model", "CanviaRetoTecnicoHenryChavez.Model\CanviaRetoTecnicoHenryChavez.Model.csproj", "{EBBDFA44-8D86-4E85-BF66-713703F214B4}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanviaRetoTecnicoHenryChavez.Command", "CanviaRetoTecnicoHenryChavez.Command\CanviaRetoTecnicoHenryChavez.Command.csproj", "{F44EA32D-178F-4A81-9F55-D9F447053B71}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanviaRetoTecnicoHenryChavez.DbContext", "CanviaRetoTecnicoHenryChavez.DbContext\CanviaRetoTecnicoHenryChavez.DbContext.csproj", "{BDDB7C42-2559-44E8-91A2-B8E98293345E}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanviaRetoTecnicoHenryChavez.WebApi", "CanviaRetoTecnicoHenryChavez.WebApi\CanviaRetoTecnicoHenryChavez.WebApi.csproj", "{5D1EE2F7-A4E0-46CB-A699-2381D6294A48}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CanviaRetoTecnicoHenryChavez.RequestDataFromDb", "CanviaRetoTecnicoHenryChavez.RequestDataFromDb\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.csproj", "{E418768F-011F-4DF6-87AD-D99AA6918976}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "SqlDataBase", "SqlDataBase", "{705E823E-740C-459A-A1C5-AE55BBFDD75E}"
+	ProjectSection(SolutionItems) = preProject
+		SQLQuery - DataBase.sql = SQLQuery - DataBase.sql
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EBBDFA44-8D86-4E85-BF66-713703F214B4}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EBBDFA44-8D86-4E85-BF66-713703F214B4}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EBBDFA44-8D86-4E85-BF66-713703F214B4}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EBBDFA44-8D86-4E85-BF66-713703F214B4}.Release|Any CPU.Build.0 = Release|Any CPU
+		{F44EA32D-178F-4A81-9F55-D9F447053B71}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F44EA32D-178F-4A81-9F55-D9F447053B71}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F44EA32D-178F-4A81-9F55-D9F447053B71}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F44EA32D-178F-4A81-9F55-D9F447053B71}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BDDB7C42-2559-44E8-91A2-B8E98293345E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDDB7C42-2559-44E8-91A2-B8E98293345E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDDB7C42-2559-44E8-91A2-B8E98293345E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDDB7C42-2559-44E8-91A2-B8E98293345E}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5D1EE2F7-A4E0-46CB-A699-2381D6294A48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5D1EE2F7-A4E0-46CB-A699-2381D6294A48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5D1EE2F7-A4E0-46CB-A699-2381D6294A48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5D1EE2F7-A4E0-46CB-A699-2381D6294A48}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E418768F-011F-4DF6-87AD-D99AA6918976}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E418768F-011F-4DF6-87AD-D99AA6918976}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E418768F-011F-4DF6-87AD-D99AA6918976}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E418768F-011F-4DF6-87AD-D99AA6918976}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {764A0A40-BF3E-4D37-B74F-765D625ACC0F}
+	EndGlobalSection
+EndGlobal

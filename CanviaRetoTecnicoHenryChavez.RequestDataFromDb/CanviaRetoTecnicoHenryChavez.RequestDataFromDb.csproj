@@ -1,0 +1,14 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net6.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\CanviaRetoTecnicoHenryChavez.DbContext\CanviaRetoTecnicoHenryChavez.DbContext.csproj" />
+    <ProjectReference Include="..\CanviaRetoTecnicoHenryChavez.Model\CanviaRetoTecnicoHenryChavez.Model.csproj" />
+  </ItemGroup>
+
+</Project>
