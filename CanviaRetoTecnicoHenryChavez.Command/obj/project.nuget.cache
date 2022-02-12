@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wLrAPQQjC06heY+LW2vgPDjruPrkZUVIfA9viSE9Seu5+zZf54gIuqbM8OVlZnZszSBQGD8TmaxmDNdFzJWRgw==",
+  "dgSpecHash": "M7Cxkgwt130ICcAeP3NTjcZ8Tfy+NIE8EPaHe4OBhVmDUNT+kQ+mFTMv2QfjlMueB70YvpOHj34wu2+yHxPdAQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usuario\\Desktop\\Canvia - Reto Tecnico\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.Command\\CanviaRetoTecnicoHenryChavez.Command.csproj",
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\New folder (3)\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.Command\\CanviaRetoTecnicoHenryChavez.Command.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\fluentvalidation\\10.3.6\\fluentvalidation.10.3.6.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\fluentvalidation.aspnetcore\\10.3.6\\fluentvalidation.aspnetcore.10.3.6.nupkg.sha512",

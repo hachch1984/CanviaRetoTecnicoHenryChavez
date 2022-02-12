@@ -13,3 +13,18 @@ C:\Users\usuario\Desktop\Canvia - Reto Tecnico\CanviaRetoTecnicoHenryChavez.Comm
 C:\Users\usuario\Desktop\Canvia - Reto Tecnico\CanviaRetoTecnicoHenryChavez.Command\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.dll
 C:\Users\usuario\Desktop\Canvia - Reto Tecnico\CanviaRetoTecnicoHenryChavez.Command\obj\Debug\net6.0\ref\CanviaRetoTecnicoHenryChavez.Command.dll
 C:\Users\usuario\Desktop\Canvia - Reto Tecnico\CanviaRetoTecnicoHenryChavez.Command\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.pdb
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.deps.json
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\bin\Debug\net6.0\ref\CanviaRetoTecnicoHenryChavez.Command.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.pdb
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Model.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Model.pdb
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.AssemblyInfo.cs
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.csproj.CopyComplete
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\obj\Debug\net6.0\ref\CanviaRetoTecnicoHenryChavez.Command.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.Command\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Command.pdb

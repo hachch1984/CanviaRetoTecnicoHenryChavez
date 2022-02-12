@@ -1960,11 +1960,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\Canvia - Reto Tecnico\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.csproj",
+      "projectUniqueName": "C:\\Users\\usuario\\Desktop\\New folder (3)\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.csproj",
       "projectName": "CanviaRetoTecnicoHenryChavez.RequestDataFromDb",
-      "projectPath": "C:\\Users\\usuario\\Desktop\\Canvia - Reto Tecnico\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.csproj",
+      "projectPath": "C:\\Users\\usuario\\Desktop\\New folder (3)\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.csproj",
       "packagesPath": "C:\\Users\\usuario\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\usuario\\Desktop\\Canvia - Reto Tecnico\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\\obj\\",
+      "outputPath": "C:\\Users\\usuario\\Desktop\\New folder (3)\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\usuario\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1981,11 +1981,11 @@
         "net6.0": {
           "targetAlias": "net6.0",
           "projectReferences": {
-            "C:\\Users\\usuario\\Desktop\\Canvia - Reto Tecnico\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.DbContext\\CanviaRetoTecnicoHenryChavez.DbContext.csproj": {
-              "projectPath": "C:\\Users\\usuario\\Desktop\\Canvia - Reto Tecnico\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.DbContext\\CanviaRetoTecnicoHenryChavez.DbContext.csproj"
+            "C:\\Users\\usuario\\Desktop\\New folder (3)\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.DbContext\\CanviaRetoTecnicoHenryChavez.DbContext.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Desktop\\New folder (3)\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.DbContext\\CanviaRetoTecnicoHenryChavez.DbContext.csproj"
             },
-            "C:\\Users\\usuario\\Desktop\\Canvia - Reto Tecnico\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.Model\\CanviaRetoTecnicoHenryChavez.Model.csproj": {
-              "projectPath": "C:\\Users\\usuario\\Desktop\\Canvia - Reto Tecnico\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.Model\\CanviaRetoTecnicoHenryChavez.Model.csproj"
+            "C:\\Users\\usuario\\Desktop\\New folder (3)\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.Model\\CanviaRetoTecnicoHenryChavez.Model.csproj": {
+              "projectPath": "C:\\Users\\usuario\\Desktop\\New folder (3)\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.Model\\CanviaRetoTecnicoHenryChavez.Model.csproj"
             }
           }
         }

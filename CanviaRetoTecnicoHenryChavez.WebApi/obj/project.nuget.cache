@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Akmeq5li+5AtIZmI05wIZpF5nwdA/J7tpfsgjWul8v3Mpi/vG8eAAzrk0VjvKXN6+5xT+DUzYFn2vm73GAdFmA==",
+  "dgSpecHash": "50Ne6inF+m3XTPw1RT0PQLGRnfKlZEmIZljrTdUoVH6M20PFyDag4acd6H96Iu5uxNrWYY+qwm6X9MFlH8UVGQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\usuario\\Desktop\\Canvia - Reto Tecnico\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.WebApi\\CanviaRetoTecnicoHenryChavez.WebApi.csproj",
+  "projectFilePath": "C:\\Users\\usuario\\Desktop\\New folder (3)\\CanviaRetoTecnicoHenryChavez\\CanviaRetoTecnicoHenryChavez.WebApi\\CanviaRetoTecnicoHenryChavez.WebApi.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\usuario\\.nuget\\packages\\automapper\\11.0.1\\automapper.11.0.1.nupkg.sha512",
     "C:\\Users\\usuario\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\11.0.0\\automapper.extensions.microsoft.dependencyinjection.11.0.0.nupkg.sha512",

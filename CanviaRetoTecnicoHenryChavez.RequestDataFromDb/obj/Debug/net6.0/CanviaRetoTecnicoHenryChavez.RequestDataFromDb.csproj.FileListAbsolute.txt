@@ -15,3 +15,20 @@ C:\Users\usuario\Desktop\Canvia - Reto Tecnico\CanviaRetoTecnicoHenryChavez.Requ
 C:\Users\usuario\Desktop\Canvia - Reto Tecnico\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.dll
 C:\Users\usuario\Desktop\Canvia - Reto Tecnico\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\obj\Debug\net6.0\ref\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.dll
 C:\Users\usuario\Desktop\Canvia - Reto Tecnico\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.pdb
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.deps.json
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\bin\Debug\net6.0\ref\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.pdb
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Model.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.pdb
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Model.pdb
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.AssemblyInfo.cs
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.csproj.CopyComplete
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\obj\Debug\net6.0\ref\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.RequestDataFromDb\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.RequestDataFromDb.pdb

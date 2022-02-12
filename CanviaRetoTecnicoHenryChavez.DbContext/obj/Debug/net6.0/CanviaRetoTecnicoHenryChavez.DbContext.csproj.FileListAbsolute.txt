@@ -15,3 +15,20 @@ C:\Users\usuario\Desktop\Canvia - Reto Tecnico\CanviaRetoTecnicoHenryChavez.DbCo
 C:\Users\usuario\Desktop\Canvia - Reto Tecnico\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\ref\CanviaRetoTecnicoHenryChavez.DbContext.dll
 C:\Users\usuario\Desktop\Canvia - Reto Tecnico\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.pdb
 C:\Users\usuario\Desktop\Canvia - Reto Tecnico\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.genruntimeconfig.cache
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.deps.json
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.runtimeconfig.json
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\bin\Debug\net6.0\ref\CanviaRetoTecnicoHenryChavez.DbContext.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.pdb
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Model.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\bin\Debug\net6.0\CanviaRetoTecnicoHenryChavez.Model.pdb
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.csproj.AssemblyReference.cache
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.AssemblyInfo.cs
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.csproj.CopyComplete
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\ref\CanviaRetoTecnicoHenryChavez.DbContext.dll
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.pdb
+C:\Users\usuario\Desktop\New folder (3)\CanviaRetoTecnicoHenryChavez\CanviaRetoTecnicoHenryChavez.DbContext\obj\Debug\net6.0\CanviaRetoTecnicoHenryChavez.DbContext.genruntimeconfig.cache
